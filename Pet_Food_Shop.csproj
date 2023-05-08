@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3075B4B1-A522-467E-A3C8-BA3AC4B2C053}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pet_Food_Shop</RootNamespace>
+    <AssemblyName>Pet_Food_Shop</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\CircularProgressBar.2.2.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addCustomer.Designer.cs">
+      <DependentUpon>addCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddFoodCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddFoodCategory.Designer.cs">
+      <DependentUpon>AddFoodCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddFoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddFoods.Designer.cs">
+      <DependentUpon>AddFoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addNewCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addNewCategory.Designer.cs">
+      <DependentUpon>addNewCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminLoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminLoginFrm.Designer.cs">
+      <DependentUpon>adminLoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanal.Designer.cs">
+      <DependentUpon>AdminPanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminstaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminstaff.Designer.cs">
+      <DependentUpon>adminstaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="available.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="available.Designer.cs">
+      <DependentUpon>available.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bill.Designer.cs">
+      <DependentUpon>bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashierLoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashierLoginFrm.Designer.cs">
+      <DependentUpon>cashierLoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashierPanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashierPanal.Designer.cs">
+      <DependentUpon>CashierPanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoryFrm.Designer.cs">
+      <DependentUpon>CategoryFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerData.Designer.cs">
+      <DependentUpon>CustomerData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerDetails.Designer.cs">
+      <DependentUpon>CustomerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dailyReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dailyReports.Designer.cs">
+      <DependentUpon>dailyReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoodMag_01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodMag_01.Designer.cs">
+      <DependentUpon>FoodMag_01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginfrm.Designer.cs">
+      <DependentUpon>loginfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyReports.Designer.cs">
+      <DependentUpon>MonthlyReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payments.Designer.cs">
+      <DependentUpon>payments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="staffLoginfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffLoginfrm.Designer.cs">
+      <DependentUpon>staffLoginfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffPanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffPanal.Designer.cs">
+      <DependentUpon>StaffPanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffReg_A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffReg_A.Designer.cs">
+      <DependentUpon>staffReg_A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Catagory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Catagory.Designer.cs">
+      <DependentUpon>View Catagory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewFoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewFoods.Designer.cs">
+      <DependentUpon>ViewFoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewStaffMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewStaffMembers.Designer.cs">
+      <DependentUpon>viewStaffMembers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addCustomer.resx">
+      <DependentUpon>addCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddFoodCategory.resx">
+      <DependentUpon>AddFoodCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddFoods.resx">
+      <DependentUpon>AddFoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addNewCategory.resx">
+      <DependentUpon>addNewCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminLoginFrm.resx">
+      <DependentUpon>adminLoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanal.resx">
+      <DependentUpon>AdminPanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminstaff.resx">
+      <DependentUpon>adminstaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="available.resx">
+      <DependentUpon>available.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bill.resx">
+      <DependentUpon>bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashierLoginFrm.resx">
+      <DependentUpon>cashierLoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashierPanal.resx">
+      <DependentUpon>CashierPanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoryFrm.resx">
+      <DependentUpon>CategoryFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerData.resx">
+      <DependentUpon>CustomerData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerDetails.resx">
+      <DependentUpon>CustomerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dailyReports.resx">
+      <DependentUpon>dailyReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodMag_01.resx">
+      <DependentUpon>FoodMag_01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginfrm.resx">
+      <DependentUpon>loginfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyReports.resx">
+      <DependentUpon>MonthlyReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payments.resx">
+      <DependentUpon>payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report.resx">
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="staffLoginfrm.resx">
+      <DependentUpon>staffLoginfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffPanal.resx">
+      <DependentUpon>StaffPanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffReg_A.resx">
+      <DependentUpon>staffReg_A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Catagory.resx">
+      <DependentUpon>View Catagory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewFoods.resx">
+      <DependentUpon>ViewFoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewStaffMembers.resx">
+      <DependentUpon>viewStaffMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Header_mobile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PetShopDataBase.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="PetShopDataBase_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>PetShopDataBase.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PetLibrary\PetLibrary.csproj">
+      <Project>{9dd98ada-0353-4851-a230-ffab30b0a73e}</Project>
+      <Name>PetLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

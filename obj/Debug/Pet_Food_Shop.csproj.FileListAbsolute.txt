@@ -1,0 +1,123 @@
+D:\ict project\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.exe.config
+D:\ict project\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.exe
+D:\ict project\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.pdb
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.Properties.Resources.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.GenerateResource.cache
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.CoreCompileInputs.cache
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.exe
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.pdb
+D:\ict project\Pet_Food_Shop\bin\Debug\CircularProgressBar.dll
+D:\ict project\Pet_Food_Shop\bin\Debug\WinFormAnimation.dll
+D:\ict project\Pet_Food_Shop\bin\Debug\CircularProgressBar.xml
+D:\ict project\Pet_Food_Shop\bin\Debug\WinFormAnimation.xml
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.Splash.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.CopyComplete
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.loginfrm.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.adminLoginFrm.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.AdminPanal.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.cashierLoginFrm.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.staffLoginfrm.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.adminstaff.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.staffReg_A.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.viewStaffMembers.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.available.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.FoodMag_01.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.payments.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.report.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.AssemblyReference.cache
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CashierPanal.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.StaffPanal.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.AddFoods.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.dailyReports.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.HighestSells.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.MonthlyReports.resources
+D:\ict project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.ViewFoods.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.exe.config
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.exe
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.pdb
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\CircularProgressBar.dll
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\WinFormAnimation.dll
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\CircularProgressBar.xml
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\WinFormAnimation.xml
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.AddFoods.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.adminLoginFrm.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.AdminPanal.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.adminstaff.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.available.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.cashierLoginFrm.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CashierPanal.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.dailyReports.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.FoodMag_01.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.HighestSells.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.loginfrm.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.MonthlyReports.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.payments.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.report.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.Splash.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.Properties.Resources.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.staffLoginfrm.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.StaffPanal.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.staffReg_A.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.ViewFoods.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.viewStaffMembers.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.GenerateResource.cache
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.CoreCompileInputs.cache
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.CopyComplete
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.exe
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.pdb
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CustomerData.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.addCustomer.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CustomerDetails.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.addNewCategory.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.View_Catagory.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CategoryFrm.resources
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\PetShopDataBase.mdf
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\PetShopDataBase_log.ldf
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.AssemblyReference.cache
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\PetLibrary.dll
+D:\BIT\2 sem\ICT Project\Pet_Food_Shop\bin\Debug\PetLibrary.pdb
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\PetShopDataBase.mdf
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\PetShopDataBase_log.ldf
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.exe.config
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.exe
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\Pet_Food_Shop.pdb
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\CircularProgressBar.dll
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\PetLibrary.dll
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\WinFormAnimation.dll
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\PetLibrary.pdb
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\CircularProgressBar.xml
+D:\BIT\2 sem\projecte\Pet_Food_Shop\bin\Debug\WinFormAnimation.xml
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.AssemblyReference.cache
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.addCustomer.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.AddFoods.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.addNewCategory.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.adminLoginFrm.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.AdminPanal.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.adminstaff.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.available.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.cashierLoginFrm.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CashierPanal.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CategoryFrm.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CustomerData.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.CustomerDetails.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.dailyReports.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.FoodMag_01.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.loginfrm.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.MonthlyReports.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.payments.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.report.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.Splash.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.Properties.Resources.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.staffLoginfrm.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.StaffPanal.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.staffReg_A.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.View_Catagory.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.ViewFoods.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.viewStaffMembers.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.GenerateResource.cache
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.CoreCompileInputs.cache
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.csproj.CopyComplete
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.exe
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.pdb
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.AddFoodCategory.resources
+D:\BIT\2 sem\projecte\Pet_Food_Shop\obj\Debug\Pet_Food_Shop.bill.resources
